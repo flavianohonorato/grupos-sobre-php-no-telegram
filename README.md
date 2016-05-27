@@ -1,5 +1,4 @@
-# php-grupos-telegram
-Repositórios com links de grupos relacionados ao PHP  no Telegran. Sinta-se a vontade para contribuir com esta lista.
+# Repositórios com links de grupos relacionados ao PHP  no Telegran. Sinta-se a vontade para contribuir com esta lista.
 
 
 
