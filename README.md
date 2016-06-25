@@ -31,4 +31,10 @@ telegram.me/laravelbr)
 [telegram.me/yiibrasil](
 telegram.me/yiibrasil)
 
+
+###### Magento BR: @magentobr
+[telegram.me/magentobr](
+telegram.me/magentobr)
+
+
  **E tem ainda o Grupo do PHP Brasil** : @phpbrasil [telegram.me/PHPBrasil](telegram.me/phpbrasil)
