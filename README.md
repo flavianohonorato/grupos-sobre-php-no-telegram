@@ -37,4 +37,4 @@ telegram.me/yiibrasil)
 telegram.me/magentobr)
 
 
- **E tem ainda o Grupo do PHP Brasil** : @phpbrasil [telegram.me/PHPBrasil](telegram.me/phpbrasil)
+ **Grupo e Canal do PHP Brasil** : @phpbrasil [telegram.me/PHPBrasil](telegram.me/phpbrasil) / @php_brasil_feed [telegram.me/php_brasil_feed](telegram.me/php_brasil_feed)
