@@ -1,40 +1,48 @@
 # Repositórios com links de grupos relacionados ao PHP  no Telegran. Sinta-se a vontade para contribuir com esta lista.
 
 
-
  **Grupos no Telegram de alguns Frameworks e Microframeworks PHP:** 
 
 ###### Sílex: @SilexBrasil
-[telegram.me/silexbrasil](telegram.me/silexbrasil)
-
+[http://telegram.me/silexbrasil]
+(http://telegram.me/silexbrasil)
 
 
 ###### Synfony: @SymfonyBrasil
-[telegram.me/symfonybrasil](telegram.me/symfonybrasil)
+[http://telegram.me/symfonybrasil]
+(http://telegram.me/symfonybrasil)
 
 
 ###### Cake PHP: @cakephpbr
-[telegram.me/cakephpbr](telegram.me/cakephpbr)
+[http://telegram.me/cakephpbr]
+(http://telegram.me/cakephpbr)
 
 
 ###### Laravel: @LaravelBR
-[telegram.me/laravelbr](
-telegram.me/laravelbr)
+[http://telegram.me/laravelbr]
+(http://telegram.me/laravelbr)
 
 
 ###### CodeIgniter: @CodeIgniterBr
-[telegram.me/codeigniterbr](telegram.me/codeigniterbr)
+[http://telegram.me/codeigniterbr]
+(http://telegram.me/codeigniterbr)
 
 
 
 ###### Yii Brasil: @yiibrasil
-[telegram.me/yiibrasil](
-telegram.me/yiibrasil)
+[http://telegram.me/yiibrasil]
+(http://telegram.me/yiibrasil)
 
 
 ###### Magento BR: @magentobr
-[telegram.me/magentobr](
-telegram.me/magentobr)
+[http://telegram.me/magentobr]
+(http://telegram.me/magentobr)
 
 
- **Grupo e Canal do PHP Brasil** : @phpbrasil [telegram.me/PHPBrasil](telegram.me/phpbrasil) / @php_brasil_feed [telegram.me/php_brasil_feed](telegram.me/php_brasil_feed)
+ **Grupo do PHP Brasil** : @phpbrasil 
+ [http://telegram.me/PHPBrasil]
+ (http://telegram.me/phpbrasil) 
+ 
+ **Ganal do PHP Brasil [feed]** : @phpbrasil 
+ [http://telegram.me/php_brasil_feed]
+ (http://telegram.me/php_brasil_feed)
