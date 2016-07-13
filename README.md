@@ -1,4 +1,4 @@
-# Repositórios com links de grupos relacionados ao PHP  no Telegran. Sinta-se a vontade para contribuir com esta lista.
+# Repositórios com links de grupos relacionados ao PHP  no Telegram. Sinta-se a vontade para contribuir com esta lista.
 
 
  **Grupos no Telegram de alguns Frameworks e Microframeworks PHP:** 
@@ -32,6 +32,12 @@
 ###### Yii Brasil: @yiibrasil
 [http://telegram.me/yiibrasil]
 (http://telegram.me/yiibrasil)
+
+
+
+###### Drupal Brasil: @drupalbrasil
+[http://telegram.me/drupalbrasil]
+(http://telegram.me/drupalbrasil)
 
 
 ###### Magento BR: @magentobr
