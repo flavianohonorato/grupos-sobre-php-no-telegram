@@ -1,4 +1,4 @@
-# Repositórios com links de grupos relacionados ao PHP  no Telegram. Sinta-se a vontade para contribuir com esta lista.
+# Repositório com links de grupos relacionados ao PHP  no Telegram. Sinta-se a vontade para contribuir com esta lista.
 
 
  **Grupos no Telegram de alguns Frameworks e Microframeworks PHP:** 
