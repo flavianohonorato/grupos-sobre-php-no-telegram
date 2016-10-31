@@ -7,6 +7,10 @@
 [http://telegram.me/silexbrasil]
 (http://telegram.me/silexbrasil)
 
+###### Slim: @Slim_brasil
+[https://telegram.me/slim_brasil]
+(https://telegram.me/slim_brasil)
+
 
 ###### Synfony: @SymfonyBrasil
 [http://telegram.me/symfonybrasil]
