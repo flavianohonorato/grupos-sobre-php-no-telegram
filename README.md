@@ -44,6 +44,10 @@
 [http://telegram.me/magentobr]
 (http://telegram.me/magentobr)
 
+###### Joomla BR: @joomlabrasil
+[https://telegram.me/joomlabrasil]
+(https://telegram.me/joomlabrasil) 
+
 
  **Grupo do PHP Brasil** : @phpbrasil 
  [http://telegram.me/PHPBrasil]
