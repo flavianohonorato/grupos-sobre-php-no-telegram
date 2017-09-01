@@ -42,6 +42,22 @@
 ###### Joomla BR: @joomlabrasil
 [https://telegram.me/joomlabrasil](https://telegram.me/joomlabrasil) 
 
+###### PHP MA: @phpmaranhao
+[https://telegram.me/phpmaranhao](https://t.me/phpmaranhao)
+
+
+###### PHP BA: @phpba
+[https://telegram.me/phpba](https://t.me/phpba)
+
+###### PHP RJ: @phprio
+[https://telegram.me/phprio](https://t.me/phprio)
+
+
+###### PHPeste: @PHPeste
+[https://telegram.me/PHPeste](https://t.me/PHPeste)
+
+###### PHP Construção colaborativa de Ebook: @PHProgramando
+[https://telegram.me/PHProgramando](https://t.me/PHProgramando)
 
  **Grupo do PHP Brasil** : @phpbrasil 
  [http://telegram.me/PHPBrasil] (http://telegram.me/phpbrasil) 
