@@ -3,6 +3,9 @@
 
  **Grupos no Telegram de alguns Frameworks e Microframeworks PHP:** 
 
+###### Laravel Boleto
+[https://t.me/laravelBoleto](https://t.me/laravelBoleto)
+
 ###### PHP Com Rapadura: @phpcomrapadura
 [https://t.me/phpcomrapadura](https://t.me/phpcomrapadura)
 
@@ -61,6 +64,9 @@
 
 ###### PHP Construção colaborativa de Ebook: @PHProgramando
 [https://telegram.me/PHProgramando](https://t.me/PHProgramando)
+
+###### Wordpress Brasil
+[https://t.me/WordPressBrasil](https://t.me/WordPressBrasil)
 
  **Grupo do PHP Brasil** : @phpbrasil 
  [http://telegram.me/PHPBrasil] (http://telegram.me/phpbrasil) 
