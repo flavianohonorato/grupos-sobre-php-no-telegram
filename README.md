@@ -3,6 +3,9 @@
 
  **Grupos no Telegram de alguns Frameworks e Microframeworks PHP:** 
 
+###### PHP Com Rapadura: @phpcomrapadura
+[https://t.me/phpcomrapadura](https://t.me/phpcomrapadura)
+
 ###### Sílex: @SilexBrasil
 [http://telegram.me/silexbrasil](http://telegram.me/silexbrasil)
 
