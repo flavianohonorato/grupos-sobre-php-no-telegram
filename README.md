@@ -65,8 +65,8 @@
 ###### PHP Construção colaborativa de Ebook: @PHProgramando
 [https://telegram.me/PHProgramando](https://t.me/PHProgramando)
 
-###### Wordpress Brasil
-[https://t.me/WordPressBrasil](https://t.me/WordPressBrasil)
+###### WordPress Brasil 🇧🇷
+[https://t.me/wp_br](https://t.me/wp_br)
 
  **Grupo do PHP Brasil** : @phpbrasil 
  [http://telegram.me/PHPBrasil] (http://telegram.me/phpbrasil) 
